@@ -1,0 +1,104 @@
+"id","status","address","address_google","location_type","pnt"
+1,"OK","1431 Foulk Road
+Wilmington, DE 19803","1431 Foulk Rd, Wilmington, DE 19803, USA","ROOFTOP",c(-75.5209777, 39.8019933)
+1,"OK","4091 Woodland Ferry Road
+Seaford, DE 19973","4091 Woodland Ferry Rd, Seaford, DE 19973, USA","ROOFTOP",c(-75.6793768, 38.6146387)
+1,"OK","1919 Allabands Mill Road
+Camden-Wyoming, DE 19934
+Just west of Dover, DE.","1919 Allabands Mill Rd, Camden Wyoming, DE 19934, USA","GEOMETRIC_CENTER",c(-75.571518, 39.1204738)
+1,"OK","644 Paradise Alley Road
+644 Paradise Alley Road
+Felton, DE 19943
+If you are driving south on Rt 13 turn right onto Paradise Alley Rd. Continue on Paradise Alley for about 1 mile until you come to the Rail Road Tracks. Our driveway is on the left hand side just before you cross the RR tracks. We have a Red Barn for a mail box.","644 Paradise Alley Rd, Felton, DE 19943, USA","ROOFTOP",c(-75.5775438, 38.9691018)
+1,"OK","19119 JUMPING JACK LN
+LINCOLN, DE 19960","19119 Jumping Jack Ln, Lincoln, DE 19960, USA","ROOFTOP",c(-75.4171056, 38.8786281)
+1,"OK","324 VanDyke-MD Line Road
+Townsend, DE 19734","324 Vandyke Maryland Line Rd, Townsend, DE 19734, USA","ROOFTOP",c(-75.761295, 39.3446346)
+1,"OK","Corner of Dupont and Johnson Avenues
+Lewes, DE 19958","Johnson Ave & Dupont Ave, Lewes, DE 19958, USA","GEOMETRIC_CENTER",c(-75.146741, 38.77363)
+1,"OK","870 Frenchtown Rd. E
+New Castle, DE 19720
+Located on Historic Penn Farm","807 Frenchtown Rd E, New Castle, DE 19720, USA","ROOFTOP",c(-75.592805, 39.6672412)
+1,"OK","807 Frenchtown Rd.
+New Castle, DE 19720
+We are located on the Historic Penn Farm.","807 Frenchtown Rd E, New Castle, DE 19720, USA","ROOFTOP",c(-75.592805, 39.6672412)
+1,"OK","200 Cullen Street
+Dewey Beach, DE 19971
+Route 1 at Cullen Street. North end of Dewey Beach.","200 Cullen St, Rehoboth Beach, DE 19971, USA","ROOFTOP",c(-75.0786585, 38.7000672)
+1,"OK","Newark Shopping Center
+230 E. Main Street
+Newark, DE 19711
+Conveniently located in the Newark Shopping Center for easy, free parking.","250 E Main St, Newark, DE 19711, USA","ROOFTOP",c(-75.7439861, 39.6852012)
+1,"OK","Newark Shopping Center
+230 E. Main Street
+Newark, DE 19711","250 E Main St, Newark, DE 19711, USA","ROOFTOP",c(-75.7439861, 39.6852012)
+1,"OK","616 New London Road
+Newark, DE 19711","616 New London Rd, Newark, DE 19711, USA","ROOFTOP",c(-75.7669079, 39.7056815)
+1,"OK","7417 Lancaster Pike
+Hockessin , DE 19707
+We have ample parking in front of the store, as well as bicycle parking.","7417 Lancaster Pike, Hockessin, DE 19707, USA","ROOFTOP",c(-75.6956453, 39.7891356)
+1,"OK","3229 Kenton Rd.
+Dover, DE 19904","3229 Kenton Rd, Dover, DE 19904, USA","ROOFTOP",c(-75.59293, 39.186971)
+1,"OK","95 Ringside Drive
+Dover, DE 19904","95 Ringside Dr, Dover, DE 19904, USA","ROOFTOP",c(-75.635053, 39.225952)
+1,"OK","1436 Fords Corner Road
+Hartly, DE 19953","1436 Fords Corner Rd, Hartly, DE 19953, USA","ROOFTOP",c(-75.7284949, 39.1846394)
+1,"OK","1734 Alley Mill Road
+Clayton, DE 19938","1734 Alley Mill Rd, Clayton, DE 19938, USA","ROOFTOP",c(-75.664073, 39.297267)
+1,"OK","1331 Clayton-greenspring rd.
+Clayton, DE 19938","1331 Clayton Greenspring Rd, Clayton, DE 19938, USA","ROOFTOP",c(-75.6444252, 39.3048946)
+1,"OK","1311 McQuail Road
+Smyrna, DE 19977","1311 McQuail Rd, Smyrna, DE 19977, USA","ROOFTOP",c(-75.572004, 39.353976)
+1,"OK","6057 Summit Bridge Rd
+Townsend, DE 19734","6057 Summit Bridge Rd, Townsend, DE 19734, USA","ROOFTOP",c(-75.680206, 39.3966909)
+1,"OK","13713 Haven Road
+Bridgeville, DE 19933","13713 Haven Rd, Bridgeville, DE 19933, USA","ROOFTOP",c(-75.512543, 38.7640906)
+1,"OK","595 Silver Run Road
+Middletown, DE 19709","595 Silver Run Rd, Middletown, DE 19709, USA","ROOFTOP",c(-75.6217408, 39.4607548)
+1,"OK","9843 Seashore Highway
+Bridgeville, DE 19933","9843 Seashore Hwy, Bridgeville, DE 19933, USA","GEOMETRIC_CENTER",c(-75.5746105, 38.7159886)
+1,"OK","Cross street Union and Magnolia Street
+Milton, DE 19968","Union St & Magnolia St, Milton, DE 19968, USA","GEOMETRIC_CENTER",c(-75.310969, 38.778696)
+1,"OK","8022 Hearns Pond Rd
+Seaford, DE 19973","8022 Hearns Pond Rd, Seaford, DE 19973, USA","RANGE_INTERPOLATED",c(-75.6040292, 38.6801605)
+1,"OK","200 Health Service Drive (Across from the Seaford Post Office)
+Seaford, DE 19973","2001 Bridgeville Hwy, Seaford, DE 19973, USA","ROOFTOP",c(-75.599134, 38.6612019)
+1,"OK","23802 Springfield Rd
+Georgetown, DE 19947","23802 Springfield Rd, Georgetown, DE 19947, USA","ROOFTOP",c(-75.3324951, 38.6869155)
+1,"OK","25146 Oak Rd
+Seaford, DE 19973","25146 Oak Rd, Seaford, DE 19973, USA","ROOFTOP",c(-75.5823443, 38.6421121)
+1,"OK","18864 Cool Spring Road
+Milton, DE 19968","18864 Cool Spring Rd, Milton, DE 19968, USA","ROOFTOP",c(-75.248004, 38.7205089)
+1,"OK","3315 Steele Rd
+Newark, DE 19702","3315 Steele Rd, Newark, DE 19702, USA","ROOFTOP",c(-75.779416, 39.5583529)
+1,"OK","3006 Woodland Ferry Rd
+Seaford, DE 19973","3006 Woodland Ferry Rd, Seaford, DE 19973, USA","ROOFTOP",c(-75.6994622, 38.6288626)
+1,"OK","19884 Beaver Dam Road
+Lewes, DE 19958","19884 Beaver Dam Rd, Lewes, DE 19958, USA","ROOFTOP",c(-75.2162325, 38.6950281)
+1,"OK","8947 Woodland Ferry Road
+Laurel, DE 19956","8947 Woodland Ferry Rd, Laurel, DE 19956, USA","ROOFTOP",c(-75.5835466, 38.5694924)
+1,"OK","Grove Park
+Rehoboth Beach, DE 19971","The Grove Park, Rehoboth Beach, DE 19971, USA","GEOMETRIC_CENTER",c(-75.092049, 38.7157988)
+1,"OK","1901 N Dupont Hwy
+Wilmington, DE 19720","1901 N Dupont Hwy, New Castle, DE 19720, USA","ROOFTOP",c(-75.5762916, 39.7006768)
+1,"OK","24349 Blueberry Lane
+Frankford, DE 19945
+Formerly Ryan's Berry Farm","24349 Rd 402, Frankford, DE 19945, USA","ROOFTOP",c(-75.3226067, 38.5209802)
+1,"OK","North Jackson Street & West 10th Street
+Wilmington, DE 19806","338 N Jackson St, Houston, MS 38851, USA","ROOFTOP",c(-88.999701, 33.8991273)
+1,"OK","11A Trolley Square
+Wilmington, DE 19806
+Inside the main Trolley Square shopping center beside the WSFS bank.","9A Trolley Square, Wilmington, DE 19806, USA","ROOFTOP",c(-75.562006, 39.758031)
+1,"OK","1715 Delaware Avenue
+Wilmington, DE 19806","1715 Delaware Ave, Wilmington, DE 19806, USA","ROOFTOP",c(-75.5628881, 39.7586207)
+1,"OK","1836 N. Lovering Ave. (Corner of Lincoln & Lovering)
+Wilmington, DE 19806","1836 Lovering Ave, Wilmington, DE 19806, USA","ROOFTOP",c(-75.5615031, 39.7614776)
+1,"OK","912 Brandywine Blvd.
+Wilmington, DE 19809","912 Brandywine Blvd, Wilmington, DE 19809, USA","ROOFTOP",c(-75.4993256, 39.7665728)
+1,"OK","510 Duncan Rd
+Wilmington, DE 19809
+Parking available onsite all day. After 4pm, parking is available as well behind the Garden and Urban Farm by the school district building.","510 Duncan Rd, Wilmington, DE 19809, USA","ROOFTOP",c(-75.4954572, 39.7700519)
+1,"OK","30402 Jay Patch Rd
+Selbyville, DE 19975","30402 Jay Patch Rd, Selbyville, DE 19975, USA","ROOFTOP",c(-75.218456, 38.48126)
+1,"OK","Corner of Rt. 17 and Main Street
+Selbyville, DE 19975","DE-17 & S Main St, Selbyville, DE 19975, USA","GEOMETRIC_CENTER",c(-75.2200133, 38.4580655)

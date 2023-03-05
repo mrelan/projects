@@ -1,0 +1,32 @@
+library(tidygeocoder)
+library(data.table)
+library(tidyverse)
+library(tigris)
+library(rgdal)
+library(foreign)
+library(mapsapi)
+
+
+lhde<-read.csv("G:\\Shared drives\\2020 FIRE-APHIS\\INTERMEDIATE\\cleaned_npip_de.csv", col_names=TRUE)
+
+key="AIzaSyD9g0_mF28VTSd-BhlvnEfZ3ux84BI_7mo" 
+
+i<-1
+doc = mp_geocode(
+  addresses = lhde$Address[i],
+  key = key
+)
+pnt = mp_get_points(doc)
+
+alladd<-c()
+
+for (i in 1:nrow(lhde)){
+  doc = mp_geocode(
+    addresses = lhde$Address[i],
+    key = key
+  )
+  pnt = mp_get_points(doc)
+  alladd<-rbind(alladd,pnt)
+}
+
+write.csv(alladd,"G:\\Shared drives\\2020 FIRE-APHIS\\INTERMEDIATE\\geocoded_npip_de.csv", row.names = FALSE)

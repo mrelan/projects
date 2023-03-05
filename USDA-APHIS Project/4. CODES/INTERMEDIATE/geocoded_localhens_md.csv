@@ -1,0 +1,51 @@
+"id","status","address","address_google","location_type","pnt"
+1,"OK","
+  4848 Muddy Creek RoadWest River, MD 20778","4848 Muddy Creek Rd, West River, MD 20778, USA","ROOFTOP",c(-76.5631499, 38.841809)
+1,"OK","
+  Accident, MD 21520","Accident, MD 21520, USA","APPROXIMATE",c(-79.319759, 39.628696)
+1,"OK","
+  7901 Comus RoadDickerson, MD 20842","7901 Comus Rd, Dickerson, MD 20842, USA","ROOFTOP",c(-77.392941, 39.2517641)
+1,"OK","
+  3830 Broomes Island RdPort Republic, MD 20676","3830 Broomes Island Rd, Port Republic, MD 20676, USA","ROOFTOP",c(-76.541639, 38.477708)
+1,"OK","
+  11939 Harford RoadGlen Arm, MD 21057","11939 Harford Rd, Glen Arm, MD 21057, USA","ROOFTOP",c(-76.470191, 39.449275)
+1,"OK","
+  MD 20861","Ashton, MD 20861, USA","APPROXIMATE",c(-76.9959872, 39.1503919)
+1,"OK","
+  1412 Rigdon RoadJarrettsville, MD 21084","1412 Rigdon Rd, Jarrettsville, MD 21084, USA","ROOFTOP",c(-76.43726, 39.5993102)
+1,"OK","
+  Ednor RoadSilver Spring, MD 20905","Ednor Rd, Silver Spring, MD 20905, USA","GEOMETRIC_CENTER",c(-76.9953212, 39.1358866)
+1,"OK","
+  4663 Solomons Island RdHarwood, MD 20776","4663 Solomons Island Rd, Harwood, MD 20776, USA","ROOFTOP",c(-76.608342, 38.85751)
+1,"OK","
+  727 Island Creek RoadChurch Hill, MD 21623","727 Island Creek Rd, Church Hill, MD 21623, USA","ROOFTOP",c(-76.0105396, 39.1352231)
+1,"OK","
+  27031 Pemberton DriveSalisbury, MD 21801","27031 Pemberton Dr, Salisbury, MD 21801, USA","ROOFTOP",c(-75.678244, 38.353788)
+1,"OK","
+  4585 Phillips RoadLa Plata, MD 20646","4585 Phillips Rd, La Plata, MD 20646, USA","ROOFTOP",c(-77.0537466, 38.5864582)
+1,"OK","
+  14762 Day RoadGoldsboro, MD 21636","14762 Day Rd, Goldsboro, MD 21636, USA","ROOFTOP",c(-75.851815, 39.012672)
+1,"OK","
+  2404 Jennieville DriveDavidsonville, MD 21035","2404 Jennieville Dr, Davidsonville, MD 21035, USA","ROOFTOP",c(-76.611271, 38.919657)
+1,"OK","
+  1058 Lower Pindell RoadLothian, MD 20711","1058 Lower Pindell Rd, Lothian, MD 20711, USA","ROOFTOP",c(-76.671731, 38.767552)
+1,"OK","
+  12340 Julian LanePrincess Anne, MD 21853","12340 Julian Ln, Princess Anne, MD 21853, USA","ROOFTOP",c(-75.775775, 38.218173)
+1,"OK","
+  Greensboro RoadGreensboro, MD ","Greensboro Rd, Greensboro, MD, USA","GEOMETRIC_CENTER",c(-75.8006128, 38.9749631)
+1,"OK","
+  2929 Tobacco RoadChesapeake Beach, MD 20732","2929 Tobacco Rd, Chesapeake Beach, MD 20732, USA","ROOFTOP",c(-76.525958, 38.613707)
+1,"OK","
+  Armacost RoadParkton, MD 21120","Armacost Rd, Maryland 21120, USA","GEOMETRIC_CENTER",c(-76.6918665, 39.6307027)
+1,"OK","
+  4615 Beckleysville RoadHampstead, MD 21074","4615 Beckleysville Rd, Hampstead, MD 21074, USA","ROOFTOP",c(-76.808879, 39.641519)
+1,"OK","
+  Frederick, MD 21703","Frederick, MD 21703, USA","APPROXIMATE",c(-77.4587239, 39.3729916)
+1,"OK","
+  581 Broadneck RoadAnnapolis, MD 21409","581 Broadneck Rd, Annapolis, MD 21409, USA","ROOFTOP",c(-76.4582888, 39.0329254)
+1,"OK","
+  Barclay, MD ","Barclay, MD, USA","APPROXIMATE",c(-75.8641033, 39.1442782)
+1,"OK","
+  Shady Side, MD 20764","Shady Side, MD 20764, USA","APPROXIMATE",c(-76.5083562, 38.8302686)
+1,"OK","
+  1 Jessie RoadHarwood, MD 20776","1 Jessie Rd, Harwood, MD 20776, USA","ROOFTOP",c(-76.59217, 38.896716)

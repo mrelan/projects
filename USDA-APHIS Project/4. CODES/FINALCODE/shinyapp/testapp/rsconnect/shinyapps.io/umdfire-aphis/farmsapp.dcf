@@ -1,0 +1,12 @@
+name: farmsapp
+title: farmsapp
+username:
+account: umdfire-aphis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2689937
+bundleId: 3557293
+url: https://umdfire-aphis.shinyapps.io/farmsapp/
+when: 1598389671.52008
+asMultiple: FALSE
+asStatic: FALSE

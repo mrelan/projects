@@ -1,0 +1,318 @@
+"","Phone","Name","id","status","address","address_google","location_type","pnt"
+"1","804 445-2067","Cross Street & the Fountain Green Tappahannock VA 22560",1,"OK","Cross Street & the Fountain Green Tappahannock VA 22560","4403 Convoy St, San Diego, CA 92111, USA","ROOFTOP",c(-117.154715, 32.8201863)
+"2","540 448-1937","Staunton Farmers' Market",1,"OK","Corner of Byers and Johnson Streets Staunton VA 24401","Byers St & W Johnson St, Staunton, VA 24401, USA","GEOMETRIC_CENTER",c(-79.0728989, 38.1484882)
+"3","540 395-5315","Shady Oaks",1,"OK","Blueberry Lane Burr Hill VA 22433","Blueberry Ln, 4, VA 22433, USA","GEOMETRIC_CENTER",c(-77.8692347, 38.3490715)
+"4","757 397-6395","Portsmouth Farmers Market-PortsEvents",1,"OK","Court and High Street Portsmouth VA 23704","601 Crawford St, Portsmouth, VA 23704, USA","ROOFTOP",c(-76.2974308, 36.8341723)
+"5","540 372-1086","Fredericksburg Farmers Market-Mayfield Neighborhood Market",1,"OK","Corner of Tyler and Dixon Streets Fredericksburg VA 22401","Dixon St & Tyler St, Fredericksburg, VA 22401, USA","GEOMETRIC_CENTER",c(-77.4561694, 38.2874078)
+"6","276 322-4626","Bluefield VA Farmers Market",1,"OK","Walnut Street Bluefield VA 24605","Walnut St, Bluefield, VA 24605, USA","GEOMETRIC_CENTER",c(-81.2731331, 37.2491245)
+"7","540 672-7479","5 Riders Farm",1,"OK","3849 Twymans Mill Road Orange  VA 22960","3849 Twymans Mill Rd, Orange, VA 22960, USA","ROOFTOP",c(-78.1444795, 38.3374371)
+"8","540 445-1020","7 Acres Farm",1,"OK","1832 N Seminole Trl Madison  VA 22727","1832 N Seminole Trail, Madison, VA 22727, USA","ROOFTOP",c(-78.2297353, 38.3973972)
+"9","240 626-3488","A World Away Farm, LLC",1,"OK","16080 Newbys Shop Road Elkwood  VA 22718","16080 Newbys Shop Rd, Elkwood, VA 22718, USA","ROOFTOP",c(-77.825264, 38.481215)
+"10","276 466-3868","A bingdon Bristol CSA",1,"OK","17083 Buffalo Pond Road Bristol  VA 24202","17083 Buffalo Pond Rd, Bristol, VA 24202, USA","ROOFTOP",c(-82.156552, 36.69994)
+"11","540 679-9478","A ddison Patch Farm",1,"OK","207 Addison Patch Road Hot Springs  VA 24445","207 Addison Patch Rd, Hot Springs, VA 24445, USA","ROOFTOP",c(-79.8786177, 37.9262866)
+"12","540 967-1213","A dlyn Farm",1,"OK","5568 Parrish Road
+Louisa  VA 23093","5568 Parrish Rd, Louisa, VA 23093, USA","ROOFTOP",c(-78.0393589, 37.8966829)
+"13",NA,"A erie Farm LLC",1,"OK","1117 Suiter Road Bland VA 24315","1117 Suiter Rd, Bland, VA 24315, USA","ROOFTOP",c(-81.1839301, 37.0832767)
+"14","703 327-4424","A mazing Fun Farm at Ticonderoga",1,"OK","26469 Ticonderoga Road
+Chantilly  VA 20152","26469 Ticonderoga Rd, Chantilly, VA 20152, USA","ROOFTOP",c(-77.5373482, 38.8893819)
+"15","276 682-4435","A nderson Grass Fed Beef",1,"OK","765 Whackertown Drive
+Bland  VA 24315","765 Whackertown Dr, Bland, VA 24315, USA","ROOFTOP",c(-81.2364156, 37.04894)
+"16","540 645-7095","A pfel Farms & Creamery LLC",1,"OK","192 Saddleback Farm Lane Bumpass  VA 23024","192 Saddleback Farm Ln, Bumpass, VA 23024, USA","ROOFTOP",c(-77.7977077, 37.9519937)
+"17","276 623-1121","A ppalachian Sustainable Development",1,"OK","PO Box 791 Abingdon  VA 24212","Abingdon, VA 24212, USA","APPROXIMATE",c(-81.98, 36.71)
+"18","540 253-5289","A rchwood Green Barns Farmers' Market",1,"OK","4557 Old Tavern Road The Plains  VA 20198","4557 Old Tavern Rd, The Plains, VA 20198, USA","ROOFTOP",c(-77.7863232, 38.8512019)
+"19","434 283-8109","A uburnlea Farms",1,"OK","5500 Mollies Creek Road Gladys  VA","5500 Mollies Creek Rd, Gladys, VA 24554, USA","ROOFTOP",c(-79.026279, 37.146555)
+"20","434 248-6050","A ult's Family Farm",1,"OK","14100 Thomas Jefferson Highway Pamplin  VA 23958","14100 Thomas Jefferson Hwy, Pamplin, VA 23958, USA","ROOFTOP",c(-78.6850867, 37.2251444)
+"21","804 561-1930","A very's Branch Farms",1,"OK","16923 Genito Rd.
+Amelia  VA 23002","16923 Genito Rd, Amelia Court House, VA 23002, USA","RANGE_INTERPOLATED",c(-77.9917467, 37.4460166)
+"22","540 592-7018","A yrshire Farm",1,"OK","21846 Trappe Road
+Upperville  VA 20184","21846 Trappe Rd, Upperville, VA 20184, USA","ROOFTOP",c(-77.8701689, 39.010693)
+"23","434 473-8363","B are Garden Farms",1,"OK","266 Eastbrook Rd
+Lynchburg  VA 24501","266 Eastbrook Rd, Lynchburg, VA 24501, USA","ROOFTOP",c(-79.061334, 37.351399)
+"24",NA,"B eaver Creek Game Farms",1,"OK","7356 Osborne Tpk Richmond VA 23231","7356 Osborne Turnpike, Richmond, VA 23231, USA","ROOFTOP",c(-77.399464, 37.463884)
+"25","540 879-2970","B eery, Sidney L",1,"OK","4840 Witmer Lane
+Dayton  VA 22821","4840 Witmer Ln, Dayton, VA 22821, USA","ROOFTOP",c(-79.0223001, 38.4406081)
+"26","804 885-5843","B ees Knees Farm",1,"OK","3747 Custis Millpond Road West Point  VA 23181","3747 Custis Millpond Rd, West Point, VA 23181, USA","ROOFTOP",c(-76.894698, 37.6247339)
+"27","540 808-4864","B errey Hill Farm",1,"OK","637 Berrey Road
+Madison  VA 22727","637 Berrey Rd, Madison, VA 22727, USA","ROOFTOP",c(-78.3161081, 38.4600741)
+"28","276 274-2423","B lack Hollow Hogs",1,"OK","14305 Black Hollow Road Abingdon  VA 24210-8167","14305 Black Hollow Rd, Abingdon, VA 24210, USA","ROOFTOP",c(-82.1086487, 36.680695)
+"29","540 239-8290","B lacksburg Farmers Market",1,"OK","100 Draper Road NW Blacksburg  VA 24060","100 Draper Rd NW, Blacksburg, VA 24061, USA","ROOFTOP",c(-80.4142866, 37.22863)
+"30","804 339-3781","B lackstone Bees",1,"OK","3532 Rocky Hill Road Blackstone  VA 23824","3532 Rocky Hill Rd, Blackstone, VA 23824, USA","ROOFTOP",c(-77.9146915, 37.1821338)
+"31","703 475-6146","B otetourt Farmers Market",1,"OK","90 Town Center Street Daleville  VA 24083","90 Town Center Street, Daleville, VA 24083, USA","ROOFTOP",c(-79.9127548, 37.4166779)
+"32","804 991-0336","B ottle Tree Farm LLC",1,"OK","6495 Beaver Dam Road Waverly  VA 23890","6495 Beaver Dam Rd, Waverly, VA 23890, USA","ROOFTOP",c(-77.081531, 37.0266716)
+"33","804 720-8168","B oydton Plank Farm",1,"OK","12909 Boydton Plank Road Dinwiddie  VA 23841","12909 Boydton and Petersburg Plank Rd, Dinwiddie, VA 23841, USA","ROOFTOP",c(-77.5701586, 37.0940642)
+"34","540 899-9848","B raehead Farm",1,"OK","1130 Tyler Street
+Fredricksburg  VA 22401","1130 Tyler St, Fredericksburg, VA 22401, USA","ROOFTOP",c(-77.4715612, 38.2851857)
+"35","540 473-1585","B rambleberry Farm",1,"OK","309 Pond Road
+Fincastle  VA 24090","309 Pond Rd, Fincastle, VA 24090, USA","ROOFTOP",c(-79.828205, 37.520121)
+"36","252 459-2143","B raswell Milling Company",1,"OK","20850 Jackson Lane
+Jetersville  VA 23083","20850 Jackson Ln, Jetersville, VA 23083, USA","RANGE_INTERPOLATED",c(-78.073435, 37.301615)
+"37","804 436-3171","B rindle Bay Farm",1,"OK","295 Mallard Drive
+Heathsville  VA 2247","295 Mallard Dr, Heathsville, VA 22473, USA","ROOFTOP",c(-76.4133545, 37.87553)
+"38","540 458-1001","B roadview Ranch",1,"OK","1397 Zollman's Mill Road Lexington  VA 24450","1397 Zollmans Mill Rd, Lexington, VA 24450, USA","ROOFTOP",c(-79.5258404, 37.7312109)
+"39","757 242-6800","B roken Arrows Farm",1,"OK","25590 Bows and Arrows Rd. Zuni  VA 23898","25590 Bows and Arrows Rd, Zuni, VA 23898, USA","ROOFTOP",c(-76.824234, 36.790086)
+"40","540 381-1856","B rush Creek Aquaponics",1,"OK","4610 Brush Creek Rd.
+Riner  VA 24149","4610 Brush Creek Rd, Riner, VA 24149, USA","ROOFTOP",c(-80.3626, 37.0479)
+"41","540 341-4739","B uckland Farm Market",1,"OK","4484 Lee Highway
+Warrenton  VA 20187","4484 Lee Hwy, Warrenton, VA 20187, USA","ROOFTOP",c(-77.6983447, 38.7722663)
+"42","804 241-6445","B yrd Farm Enterprise, LLC",1,"OK","6165 River Road West Columbia  VA 23038","6165 River Rd W, Columbia, VA 23038, USA","ROOFTOP",c(-78.122432, 37.7419)
+"43","434 990-0118","C air Paravel Enterprises, LLC",1,"OK","1336 Pocosan Mountain Road Stanardsville  VA 22973","1336 Pocosan Mountain Rd, Stanardsville, VA 22973, USA","ROOFTOP",c(-78.4536893, 38.3814875)
+"44","276 431-3458","C antrells Cage Free Chickens",1,"OK","725 Cove Creek Mine Lane Duffield  VA 24244","725 Cove Creek Mine Ln, Duffield, VA 24244, USA","ROOFTOP",c(-82.6950483, 36.7785426)
+"45","757 607-6483","C ape Charles Farmers Market",1,"OK","814 Randolph Street
+Cape Charles  VA 23310","814 Randolph Ave, Cape Charles, VA 23310, USA","GEOMETRIC_CENTER",c(-76.008091, 37.268044)
+"46","804 469-3834","C ardinal Hill Farm",1,"OK","19004 Cardinal Drive
+Dinwiddie  VA 23841","19004 Cardinal Dr, Dinwiddie, VA 23841, USA","ROOFTOP",c(-77.5754465, 37.1016987)
+"47","757 569-9533","C arr Farms",1,"OK","28001 Walters Highway
+Carrsville  VA 23315","28001 Walters Hwy, Carrsville, VA 23315, USA","ROOFTOP",c(-76.852305, 36.768869)
+"48","540 879-2053","C edar Springs Farm",1,"OK","1771 Liskey Road Harrisonburg VA 22801","1771 Liskey Rd, Harrisonburg, VA 22801, USA","ROOFTOP",c(-78.9310754, 38.4082694)
+"49","434 970-3371","C harlottesville City Market",1,"OK","100 E. Water Street Charlottesville  VA 22902","100 E Water St, Charlottesville, VA 22902, USA","ROOFTOP",c(-78.481654, 38.029581)
+"50","540 348-5107","C herry Ridge Organic Farm",1,"OK","2715 Walkers Creek Road Middlebrook  VA 24459","2715 Walkers Creek Rd, Middlebrook, VA 24459, USA","ROOFTOP",c(-79.3821241, 37.9676491)
+"51","804 751-4401","C hesterfield County Farmers Market",1,"OK","6701 Mimms Loop
+Chesterfield  VA 23832","6701 Mimms Loop, Chesterfield, VA 23832, USA","ROOFTOP",c(-77.5051823, 37.376664)
+"52","540 668-9828","C hicama Run, LLC",1,"OK","14809 Purcellville Road
+Purcellville  VA 20132","14809 Purcellville Rd, Purcellville, VA 20132, USA","ROOFTOP",c(-77.6941219, 39.208185)
+"53","276 646-3232","C hilhowie Farmers' Market",1,"OK","325 East Lee Highway Chilhowie  VA 24319","325 E Lee Hwy, Chilhowie, VA 24319, USA","ROOFTOP",c(-81.6803337, 36.8003674)
+"54","571 420-8834","C larke County Farmers Market",1,"OK","100 S. Church Street Berryville  VA 22611","100 S Church St, Berryville, VA 22611, USA","ROOFTOP",c(-77.9817935, 39.1501115)
+"55","434 374-2435","C larksville Lake Country Chamber of Commerce",1,"OK","105 Second Street
+Clarksville  VA 23927","105 2nd St, Clarksville, VA 23927, USA","ROOFTOP",c(-78.5542181, 36.6268473)
+"56","276 780-1690","C obb Hill Alpacas",1,"OK","300 Cobb Rd
+Rural Retreat  VA 24368","300 Cobb Rd, Rural Retreat, VA 24368, USA","ROOFTOP",c(-81.2335389, 36.9522342)
+"57","804 721-3256","C olonial Heights Farmers Market",1,"OK","2600 Boulevard
+Colonial Heights  VA 23834","2600 Boulevard, Colonial Heights, VA 23834, USA","ROOFTOP",c(-77.4133574, 37.2644724)
+"58",NA,"C ommunity Foodworks-Gainsville Farmers' Market",1,"OK","Gainsville  VA 20155","Gainesville, VA, USA","APPROXIMATE",c(-77.6138802, 38.7956706)
+"59",NA,"C ommunity Foodworks-Springfield Farmers' Market",1,"OK","6699 Spring Mall Drive Springfield  VA 22150","6699 Spring Mall Dr, Springfield, VA 22150, USA","ROOFTOP",c(-77.1775352, 38.7736798)
+"60","434 390-3017","C onsider The Lilies Farm",1,"OK","3814 Baker Mountain Road Paplin  VA 23958","3814 Baker Mountain Rd, Pamplin, VA 23958, USA","ROOFTOP",c(-78.6774201, 37.2312036)
+"61","804 994-9270","D eer Run Farm",1,"OK","1760 Nelsons Bridge Rd.
+Hanover  VA 23069","1760 Nelsons Bridge Rd, Hanover, VA 23069, USA","ROOFTOP",c(-77.268258, 37.771953)
+"62","757 771-6330","E astern Timberland Farm",1,"OK","2517 Pittmantown Road
+Suffolk  VA 23438","2517 Pittmantown Rd, Suffolk, VA 23438, USA","ROOFTOP",c(-76.7890313, 36.5612016)
+"63","917 570-0155","E dgewood Miller Farm",1,"OK","5291 Scuffletown Road
+Barboursville  VA 22923","5291 Scuffletown Rd, Barboursville, VA 22923, USA","ROOFTOP",c(-78.2828836, 38.2524752)
+"64","804 994-2221","E mpress Farm",1,"OK","2336 King William Rd.
+Hanover  VA 23069","2336 King William Rd, Hanover, VA 23069, USA","ROOFTOP",c(-77.276427, 37.805003)
+"65","540 364-1901","F LOHAS Farms",1,"OK","7069 Catbird Lane
+Marshall  VA 20115","7069 Catbird Ln, Marshall, VA 20115, USA","ROOFTOP",c(-77.937349, 38.746357)
+"66","703 248-5027","F alls Church Farmers Market",1,"OK","300 Park Avenue
+Falls Church  VA 22046","300 Park Ave, Falls Church, VA 22046, USA","ROOFTOP",c(-77.1724663, 38.8856981)
+"67","804 658-7189","F amily Heritage Farms",1,"OK","944 Cedar Hill Road Blackstone  VA 23824","944 Cedar Hill Rd, Blackstone, VA 23824, USA","ROOFTOP",c(-77.922331, 37.1939971)
+"68","757 306-7006","F arm Fresh Supermarkets",1,"OK","833 Seahawk Circle
+Virginia Beach  VA 23452","833 Seahawk Cir, Virginia Beach, VA 23452, USA","ROOFTOP",c(-76.0650073, 36.8127493)
+"69","804 767-8570","F arm to Family/The Farm Bus",1,"OK","2817 Mechanicsville Turnpike
+Richmond  VA 23223","2817 Mechanicsville Turnpike, Richmond, VA 23223, USA","ROOFTOP",c(-77.4043319, 37.5639156)
+"70","804 261-0841","F armers Market @ St. Stephen's",1,"OK","6000 Grove Avenue
+Richmond  VA 23226","6000 Grove Ave, Richmond, VA 23226, USA","ROOFTOP",c(-77.5233133, 37.573205)
+"71","540 474-5999","F ireside Farm, LLC",1,"OK","5091 Potomac River Road Monterey  VA 24465","5091 Potomac River Rd, Monterey, VA 24465, USA","ROOFTOP",c(-79.5203984, 38.4668835)
+"72","703 554-0831","F letcher Farm",1,"OK","57 Blaque Trax Lane Fredericksburg  VA 22406","57 Blaque Trax Ln, Falmouth, VA 22406, USA","ROOFTOP",c(-77.4713176, 38.4142339)
+"73","434 591-1950","F luvanna Farmers Market",1,"OK","1730 Thomas Jefferson Pkwy Palmyra  VA 22963","1730 Thomas Jefferson Pkwy, Palmyra, VA 22963, USA","ROOFTOP",c(-78.2950174, 37.8701539)
+"74","434 665-5475","F orest Farmers Market",1,"OK","15583 Forest Road Forest  VA 24551","15583 Forest Rd, Forest, VA 24551, USA","ROOFTOP",c(-79.2849735, 37.3649619)
+"75","434 531-2733","F orest Lakes Farmers Market",1,"OK","1650 Ashwood Blvd.
+Charlottesville  VA 22911","1650 Ashwood Blvd, Charlottesville, VA 22911, USA","ROOFTOP",c(-78.4401369, 38.108668)
+"76","804 464-7861","F our Mile Run Farmers & Artisans Market",1,"OK","4109 Mt Vernon Avenue
+Alexandria  VA 22305","4109 Mt Vernon Ave, Alexandria, VA 22305, USA","ROOFTOP",c(-77.0637768, 38.8431909)
+"77","540 948-6845","F ox Run Organic Farm",1,"OK","7580 Oak Grove Road Marshall  VA 20115","7580 Oak Grove Rd, Marshall, VA 20115, USA","RANGE_INTERPOLATED",c(-77.8320596, 38.9564688)
+"78","757 218-4520","F ox Wire Farm at Toano, LLC",1,"OK","300 Turners Neck Road Toano  VA 23168","300 Turners Neck Rd, Toano, VA 23168, USA","ROOFTOP",c(-76.8421709, 37.336761)
+"79","434 579-4160","F ranchesca's Dawn Farm",1,"OK","2137 Clays Mill Road Halifax  VA 24558","2137 Clays Mill Rd, Halifax, VA 24558, USA","ROOFTOP",c(-78.8920506, 36.8398459)
+"80","757 539-5324","F ull Quiver Farm",1,"OK","2801 Manning Road
+Suffolk  VA 23434","2801 Manning Rd, Suffolk, VA 23434, USA","GEOMETRIC_CENTER",c(-76.6792602, 36.6645273)
+"81","276 429-5038","G lade Spring Farmers Market",1,"OK","100 Town Square Street Glade Spring  VA 24340","100 Town Square St, Glade Spring, VA 24340, USA","RANGE_INTERPOLATED",c(-81.7716844, 36.7901231)
+"82","434 985-6663","G reene Farmers Market",1,"OK","42 Carmen Place
+Ruckersville  VA 22968","42 Carmen Pl, Ruckersville, VA 22968, USA","ROOFTOP",c(-78.3842207, 38.2337222)
+"83",NA,"G rey Acres",1,"OK","1675 Old Church Road Mechanicsville  VA 23111","1675 Old Church Rd, Mechanicsville, VA 23111, USA","ROOFTOP",c(-77.1630082, 37.627606)
+"84","434 542-4920","H &H Farm",1,"OK","318 Log House Lane
+Charlotte Court Hous  VA 23923","Log House Ln, Madison, VA 23923, USA","GEOMETRIC_CENTER",c(-78.70367, 37.1029289)
+"85","540 247-4666","H ackwood Farm",1,"OK","534 Redbud Road
+Winchester  VA 22603","534 Redbud Rd, Winchester, VA 22603, USA","RANGE_INTERPOLATED",c(-78.1262091, 39.2104173)
+"86","434 476-2343","H alifax Farmers Market",1,"OK","209 S. Main Street Halifax  VA 24558","209 S Main St, Halifax, VA 24558, USA","ROOFTOP",c(-78.9281375, 36.7632075)
+"87","434 265-0921","H ammten Farms",1,"OK","1234 Smith Cross Rds.
+South Hill  VA 23970","1234 Smith Cross Rd, South Hill, VA 23970, USA","ROOFTOP",c(-78.2021542, 36.6584078)
+"88","804 387-5175","H appy Rooster Farm",1,"OK","806 Huffville Road
+Pilot  VA 24138","806 Huffville Rd NE, Pilot, VA 24138, USA","ROOFTOP",c(-80.2775489, 37.0594603)
+"89","434 942-8034","H awk Hollow Greenhouse and Farm",1,"OK","1293 Oak Park Road Madison  VA 22727","1293 Oak Park Rd, Madison, VA 22727, USA","ROOFTOP",c(-78.2430474, 38.3671323)
+"90","503 758-2093","H aymarket Thursday Afternoon Market",1,"OK","16015 John Marshall Highway Broad Run  VA 20137","16015 John Marshall Hwy, Broad Run, VA 20137, USA","ROOFTOP",c(-77.666734, 38.818371)
+"91","919 451-4356","H enrico Farms",1,"OK","581 Henrico Road
+Buffalo Junction  VA 24529","581 Henrico Rd, Buffalo Junction, VA 24529, USA","ROOFTOP",c(-78.6236106, 36.5493255)
+"92","804 526-6376","H idden Haven",1,"OK","14704 Harrowgate Road
+Chester  VA 23831","14704 Harrowgate Rd, Chester, VA 23831, USA","ROOFTOP",c(-77.4343618, 37.3151631)
+"93","540 879-2054","H idden Hollow Farm",1,"OK","4034 Lumber Mill Road Dayton  VA 22821","4034 Lumber Mill Rd, Dayton, VA 22821, USA","ROOFTOP",c(-79.0206147, 38.4306335)
+"94","540 468-1922","H ighland Farmers' Market",1,"OK","61 Highland Center Drive Monterey  VA 24465","61 Highland Center Dr, Monterey, VA 24465, USA","ROOFTOP",c(-79.5867691, 38.4099526)
+"95","410 980-9793","H illsboro Farmers Market at the Old Stone School",1,"OK","37098 Charles Town Pike Hillsboro  VA 20132","37098 Charles Town Pike, Purcellville, VA 20132, USA","ROOFTOP",c(-77.7203935, 39.1984842)
+"96","434 770-8500","H og Haven Farms, LLC",1,"OK","1771 McDaniel Road
+Bedford  VA 24523","1771 McDaniel Rd, Bedford, VA 24523, USA","ROOFTOP",c(-79.5043531, 37.2835193)
+"97","804 758-3639","H olly Hill Organic Farm",1,"OK","2179 Water View Road Water View  VA 23180","2179 Water View Rd, Water View, VA 23180, USA","ROOFTOP",c(-76.6530742, 37.7015462)
+"98","434 987-3402","H ope of Glory Farm, LLC",1,"OK","86 Old Spring Hill Rd.
+Scottsville  VA 24590","86 Old Spring Hill, Scottsville, VA 24590, USA","ROOFTOP",c(-78.4624139, 37.8103615)
+"99","804 320-1317","H uguenot-Robious Farmers' Market at the Great Big Greenhouse",1,"OK","2051 Huguenot Road
+Richmond  VA 23235","2051 Huguenot Rd, Richmond, VA 23235, USA","ROOFTOP",c(-77.610398, 37.519516)
+"100","434 724-1392","J erread Farm",1,"OK","295 Cavalry Road
+Chatham  VA 24531","295 Cavalry Rd, Chatham, VA 24531, USA","RANGE_INTERPOLATED",c(-79.6007865, 36.8645688)
+"101","804 938-5868","J ust Picked Farm",1,"OK","15911 Saint Peters Church Road Montpelier  VA 23192","15911 St Peters Church Rd, Montpelier, VA 23192, USA","ROOFTOP",c(-77.6416543, 37.7594447)
+"102","804 767-0530","K eenbell Farm",1,"OK","18437 Vontay Rd Rockville  VA 23146","18437 Vontay Rd, Rockville, VA 23146, USA","ROOFTOP",c(-77.7419654, 37.7543062)
+"103","804 556-5526","K ilravock Ranch",1,"OK","478 River Bend Drive Bumpass  VA 23024","478 River Bend Dr, Bumpass, VA 23024, USA","ROOFTOP",c(-77.8234607, 37.788121)
+"104","276 496-4738","K im Allison Eller",1,"OK","32238 Poor Valley Rd
+Saltville  VA 24370","32238 Poor Valley Rd, Saltville, VA 24370, USA","ROOFTOP",c(-81.8103735, 36.8915794)
+"105","757 484-4421","L F Market",1,"OK","5800 Knotts Neck Road Suffolk  VA 23435","5800 Knotts Neck Rd, Suffolk, VA 23435, USA","GEOMETRIC_CENTER",c(-76.4635387, 36.8649382)
+"106","804 403-3452","L aingcroft Farm PO Box",1,"OK","PO Box 887 Powhatan  VA 23139","Powhatan, VA 23139, USA","APPROXIMATE",c(-77.9188239, 37.5415273)
+"107","276 889-7200","L ebanon Farmers Market",1,"OK","137 Highland Drive Lebanon  VA 24266","137 Highland Dr, Lebanon, VA 24266, USA","ROOFTOP",c(-82.0685396, 36.9061599)
+"108","540 273-8125","L iberty Rock Spring Farm",1,"OK","4296 Leedstown Road
+Colonial Beach  VA 22443","4296 Leedstown Rd, Colonial Beach, VA 22443, USA","ROOFTOP",c(-77.0127058, 38.1307967)
+"109","540 817-0288","L iving Water Farm",1,"OK","605 N. Red Mill Road
+Natural Bridge  VA 24578","N Red Mill Rd, Buffalo, VA 24578, USA","GEOMETRIC_CENTER",c(-79.5588849, 37.6453273)
+"110","757 679-4368","L one Sycamore Farm",1,"OK","1952 White Marsh Road Suffolk  VA 23434","1952 White Marsh Rd, Suffolk, VA 23434, USA","ROOFTOP",c(-76.558515, 36.684993)
+"111","540 241-3701","L ong Meadow Tree Farm and Market",1,"OK","296 Miller Road
+Waynesboro  VA 22980","296 Miller Rd, Waynesboro, VA 22980, USA","ROOFTOP",c(-78.929559, 38.137231)
+"112","540 454.-505","L ong Stone Farm",1,"OK","38212 L Lane
+Lovettsville  VA 20180","38212 Long Ln, Lovettsville, VA 20180, USA","ROOFTOP",c(-77.6776435, 39.2901849)
+"113","540 454-8089","L oudoun's Farmers' Market P.O. Box",1,"OK","716 Hamilton  VA 20159","Hamilton, VA 20159, USA","APPROXIMATE",c(-77.66, 39.14)
+"114","804 758-5094","L overs Retreat Dairy",1,"OK","280 Gloucester Road
+Saluda  VA 23149","280 Gloucester Rd, Saluda, VA 23149, USA","ROOFTOP",c(-76.6016233, 37.5979263)
+"115","804 514-2893","M . W. Hudgins Farming",1,"OK","11709 Beach Road
+Chesterfield  VA 23838","11709 Beach Rd, Chesterfield, VA 23838, USA","ROOFTOP",c(-77.6009155, 37.3514442)
+"116","276 928-1231","M any Blue Hills",1,"OK","414 Niday Drive
+Rocky Gap  VA 24366","Niday, District 4, VA 24124, USA","APPROXIMATE",c(-81.0289752, 37.2548413)
+"117","540 537-2584","M ayhew's Farm and Landscaping",1,"OK","1371 Dozer Lane
+Bedford  VA 24523","1371 Dozer Ln, Bedford, VA 24523, USA","ROOFTOP",c(-79.5611068, 37.2140801)
+"118","540 687-5152","M iddleburg Farmers Market",1,"OK","200 Stonewall Avenue
+Middleburg  VA 20117","200 Stonewall Ave, Middleburg, VA 20117, USA","ROOFTOP",c(-77.738882, 38.9689686)
+"119","540 854-7626","M ineral Farmers Market",1,"OK","81 Louisa Avenue
+Mineral  VA 23117","81 Louisa Ave, Mineral, VA 23117, USA","RANGE_INTERPOLATED",c(-77.9076643, 38.0127639)
+"120","571 379-2212","M isty Meadow Farm",1,"OK","9328 Meetze Road
+Midland  VA 22728","9328 Meetze Rd, Midland, VA 22728, USA","ROOFTOP",c(-77.739768, 38.650551)
+"121","434 753-1660","M isty Meadows Farm, LLC",1,"OK","13185 River Road
+South Boston  VA 24592","13185 River Rd, South Boston, VA 24592, USA","ROOFTOP",c(-79.1064705, 36.6662437)
+"122",NA,"M isty Morning Sunrise Farm",1,"OK","7114 Coleman's Lake Road
+Church R","7114 Colemans Lake Rd, Church Rd, VA 23833, USA","ROOFTOP",c(-77.7061695, 37.1738159)
+"123","540 489-1209","M organ Creek Farm LLC",1,"OK","395 Tulip Lane
+Glade Hill  VA 24092","395 Tulip Ln, Glade Hill, VA 24092, USA","ROOFTOP",c(-79.7874436, 37.054335)
+"124","804 239-7702","M orning Glory Farm",1,"OK","100 Bellwood St
+West Point  VA 23181","100 Bellwood St, West Point, VA 23181, USA","ROOFTOP",c(-76.806029, 37.547589)
+"125","757 482-0739","M ount Pleasant Farms",1,"OK","2201 Mt. Pleasant Road Chesapeake  VA 23322","2201 Mt Pleasant Rd, Chesapeake, VA 23322, USA","ROOFTOP",c(-76.141916, 36.711435)
+"126",NA,"M outoux Orchard",1,"OK","15290 Purcelville Road
+Purcelvi","15290 Purcellville Rd, Purcellville, VA 20132, USA","ROOFTOP",c(-77.690184, 39.195476)
+"127","540 459-8645","M owery Orchard LLC",1,"OK","24247 Senedo Road
+Woodstock  VA 22664","24247 Senedo Rd, Woodstock, VA 22664, USA","ROOFTOP",c(-78.5365591, 38.873664)
+"128","540 888-3090","N B Market, Inc.",1,"OK","5057 Northwestern Pike
+Gore  VA 22603","5057 Northwestern Turnpike, Gore, VA 22637, USA","ROOFTOP",c(-78.2913692, 39.2333055)
+"129","434 409-0608","N atural Roots Farm",1,"OK","Ballards Mill Road Free Union  VA 22940","Ballards Mill Rd, Free Union, VA 22940, USA","GEOMETRIC_CENTER",c(-78.599867, 38.1452303)
+"130","434 760-6655","N elson Farmers Market Co-Op",1,"OK","3079 Rockfish Valley Highway
+Nellysford  VA 22958","3079 Rockfish Valley Hwy, Nellysford, VA 22958, USA","ROOFTOP",c(-78.8706863, 37.8924283)
+"131","703 542-6226","N ew Asbury Farm",1,"OK","41469 Springvalley Lane
+Leesburg  VA 20175","41469 Springvalley Ln, Leesburg, VA 20175, USA","ROOFTOP",c(-77.567994, 39.000663)
+"132","434 315-3212","N ew Beginning Farm",1,"OK","780 Butterwood RoadCharlotte C.H.  VA 23923","780 Butterwood Rd, Phenix, VA 23959, USA","RANGE_INTERPOLATED",c(-78.7242237, 37.1502742)
+"133","757 427-6515","N ew Earth Farm and Compost Company",1,"OK","2280 London Bridge Road Virginia Beach  VA 23456","2280 London Bridge Rd, Virginia Beach, VA 23456, USA","ROOFTOP",c(-76.0251679, 36.7776629)
+"134","434 660-0241","N ostalgic Traditions Farm",1,"OK","1955 Eagle Point Rd Huddleston  VA 24104","1955 Eagle Point Rd, Huddleston, VA 24104, USA","ROOFTOP",c(-79.4055685, 37.200638)
+"135","804 450-6221","O ' Cluck Poultry Farms, LLC",1,"OK","1890 Mundy Point Road Callao  VA 22435","1890 Mundy Point Rd, Callao, VA 22435, USA","ROOFTOP",c(-76.5563674, 38.0109652)
+"136","757 814-4186","O ld MCConnell's Farm",1,"OK","822 Golden Hill Road Elberon  VA 23846","822 Golden Hill Rd, Elberon, VA 23846, USA","ROOFTOP",c(-76.8358662, 37.0794066)
+"137","804 246-9717","P ampatike Hill Farm",1,"OK","1343 Pampatike Road
+King William  VA 23086","1343 Pampatike Rd, King William, VA 23086, USA","ROOFTOP",c(-77.126457, 37.684187)
+"138","434 658-0516","P anda Homestead, LLC",1,"OK","23332 Felton Drive
+Capron  VA 23829","23332 Felton Dr, Capron, VA 23829, USA","ROOFTOP",c(-77.2451807, 36.7035535)
+"139",NA,"P aris Barns at Historic Liberty Farm",1,"OK","1037 Gap Run Rd
+Pa","1037 Gap Run Rd, Paris, VA 20130, USA","ROOFTOP",c(-77.9511228, 38.9991515)
+"140","757 968-2332","P arker Family Farm",1,"OK","7584 Willis Road
+Gloucester  VA 23061","7584 Willis Rd, Gloucester, VA 23061, USA","ROOFTOP",c(-76.601714, 37.421756)
+"141","540 993-6664","P assage Creek Farm",1,"OK","32 Stone Pillar Lanr Fort Valley  VA 22652","32 Stone Pillar Ln, Fort Valley, VA 22652, USA","ROOFTOP",c(-78.4857539, 38.7653906)
+"142","434 685-6072","P earce Family Farm",1,"OK","5020 Cascade Mill Road Cascade  VA 24069","5020 Cascade Mill Rd, Cascade, VA 24069, USA","ROOFTOP",c(-79.6846547, 36.579098)
+"143","540 729-9224","P icAberry Farms & Pottery LLC",1,"OK","5210 Coopers Hill Lane Midland  VA 22728","5210 Coopers Hill Ln, Midland, VA 22728, USA","ROOFTOP",c(-77.7223386, 38.6323018)
+"144","434 985-3570","P lanet Earth Diversified",1,"OK","165 Earth Way Drive Stanardsville  VA 22973","165 Earth Way Dr, Stanardsville, VA 22973, USA","ROOFTOP",c(-78.4595831, 38.2538252)
+"145","540 885-3590","P olyface Farm",1,"OK","43 Pure Meadows Lane Swoope  Va 24479","43 Pure Meadows Ln, Swoope, VA 24479, USA","ROOFTOP",c(-79.23315, 38.120001)
+"146","540 674-1991","P ulaski Farmers' Market - The Marketplace",1,"OK","20 South Washington Avenue
+Pulaski  VA 24301","20 S Washington Ave, Pulaski, VA 24301, USA","ROOFTOP",c(-80.7793283, 37.0458501)
+"147","540 984-3707","P urple Rooster Organics",1,"OK","1028 Wakemans Grove Road Edinburg  VA 22824","1028 Wakemans Grove Rd, Edinburg, VA 22824, USA","ROOFTOP",c(-78.6134503, 38.84488)
+"148","540 967-5196","Quail Spring Farm",1,"OK","2368 Vawter Corner Road Lou","2368 Vawter Corner Rd, Louisa, VA 23093, USA","ROOFTOP",c(-78.0281673, 38.125771)
+"149","540 810-2587","R adical Roots Community Farm",1,"OK","3083 Flook Lane
+Keezletown  VA 22832","3083 Flook Ln, Keezletown, VA 22832, USA","ROOFTOP",c(-78.768411, 38.472138)
+"150","540 672-5871","R etreat Farm",1,"OK","8175 Retreat Farm Rd.
+Rapidan  VA 22733","8175 Retreat Farm Rd, Rapidan, VA 22733, USA","ROOFTOP",c(-78.0527423, 38.2958054)
+"151","650 814-6426","R iverstone Organic Farm",1,"OK","708 Thompson Road
+Floyd  VA 24091","708 Thompson Rd SE, Floyd, VA 24091, USA","ROOFTOP",c(-80.207099, 36.949683)
+"152","540 342-2028","R oanoke Historic City Market",1,"OK","213 Market Street
+Roanoke  VA 24011","213 Market St SE, Roanoke, VA 24011, USA","ROOFTOP",c(-79.9393615, 37.2712342)
+"153","971 322-5275","R ockbridge Farmers Alliance",1,"OK","118 Moores Creek Road Lexington  VA 24450","118 Moores Creek Rd, Lexington, VA 24450, USA","RANGE_INTERPOLATED",c(-79.5968129, 37.7358837)
+"154","540 505-9523","R olling Acres Farm",1,"OK","4925 Mt. Tabor Road Blacksburg  VA 24060","4925 Mt Tabor Rd, Blacksburg, VA 24060, USA","ROOFTOP",c(-80.2881189, 37.3140771)
+"155","757 618-4727","R oses Ridge Farm",1,"OK","2732 Cedarville Road
+Chesapeake  VA 23322","2732 Cedarville Rd, Chesapeake, VA 23322, USA","ROOFTOP",c(-76.1561037, 36.612642)
+"156","804 633-3499","Rte. 639 Farmers' Market",1,"OK","7278 Ladysmith Road
+Ruther Glen  VA 22546","7278 Ladysmith Rd, Ruther Glen, VA 22546, USA","ROOFTOP",c(-77.5187683, 38.0164182)
+"157","434 842-3954","R ural Virginia Market CSA",1,"OK","866 Columbia  VA 23038","Columbia, VA 23038, USA","APPROXIMATE",c(-78.1625007, 37.7529212)
+"158","703 887-8041","S addle Ridge Farm",1,"OK","10208 Jamesons Mill Road Culpeper  VA 22701","10208 Jamesons Mill Rd, Culpeper, VA 22701, USA","ROOFTOP",c(-77.968176, 38.563724)
+"159","434 251-7242","S addle Road Farms",1,"OK","250 Saddle Road
+Danville  VA 24541","250 Saddle Rd, Danville, VA 24541, USA","ROOFTOP",c(-79.589151, 36.6029186)
+"160","276 988-9090","S andy Head Ostrich",1,"OK","128 Stowers Drive
+Tazewell  VA 24651","128 Stowers Dr, Tazewell, VA 24651, USA","ROOFTOP",c(-81.3864157, 37.1428089)
+"161","434 685-4752","S andy River Pork",1,"OK","5455 Medical Center Road Axton  VA 24054","5455 Medical Center Rd, Axton, VA 24054, USA","ROOFTOP",c(-79.654799, 36.702283)
+"162","540 381-1856","S hawsville Farmers Market",1,"OK","267 Alleghany Spring Road Shawsville  VA 24162","267 Alleghany Spring Rd, Shawsville, VA 24162, USA","ROOFTOP",c(-80.2559159, 37.1670803)
+"163","540 828-2616","S henandoah Valley Family Farms",1,"OK","4034 Lumber Mill Road
+Dayton  VA 22821","4034 Lumber Mill Rd, Dayton, VA 22821, USA","ROOFTOP",c(-79.0206147, 38.4306335)
+"164","540 879-2054","S henandoah Valley Family Farms",1,"OK","4034 Lumber Mill Road
+Day","4034 Lumber Mill Rd, Dayton, VA 22821, USA","ROOFTOP",c(-79.0206147, 38.4306335)
+"165","434 696-1126","S herwood Family Farm",1,"OK","526 Locust Lane
+Kenbridge  VA 23944","526 Locust Ln, Kenbridge, VA 23944, USA","ROOFTOP",c(-78.2384816, 36.9163698)
+"166","804 424-1967","S hort Pump Farm",1,"OK","12580 Kain Road
+Glen Allen  VA 23059","12580 Kain Rd, Glen Allen, VA 23059, USA","ROOFTOP",c(-77.6300977, 37.6765612)
+"167","757 572-8227","S immons Family Farm",1,"OK","1628 Elbow Road
+Chesapeake  VA 23320","1628 Elbow Rd, Chesapeake, VA 23320, USA","ROOFTOP",c(-76.1825173, 36.7389745)
+"168","540 477-9268","S inclair Farm",1,"OK","1167 Crooked Run Road Mt. Jackson  VA 22842","1167 Crooked Run Rd, Mt Jackson, VA 22842, USA","ROOFTOP",c(-78.7172791, 38.7751218)
+"169","757 357-2214","S mithfield Farmers Market",1,"OK","115 Main Street
+Smithfield  VA 23430","115 Main St, Smithfield, VA 23430, USA","ROOFTOP",c(-76.6314563, 36.9818314)
+"170","540 371-9328","S nead's Farm",1,"OK","18294 Tidewater Trail
+Fredericksburgh  VA 22408","18294 Tidewater Trail, Fredericksburg, VA 22408, USA","ROOFTOP",c(-77.3258147, 38.2325729)
+"171","804 221-6667","S outh of the James Farmers Market Forest Hill Avenue &",1,"OK","42nd Street Richmond  VA 23150","W 42nd St, Richmond, VA 23225, USA","GEOMETRIC_CENTER",c(-77.4782145, 37.5187847)
+"172",NA,"S outh of the James Winter Market",1,"OK","3411 Semmes Ave
+Richm","3411 Semmes Ave, Richmond, VA 23225, USA","ROOFTOP",c(-77.4698765, 37.5162203)
+"173","703 856-5030","S outhern Roots Farm, LLC",1,"OK","7414 Grand Brooks Road Spotsylva","7414 Grand Brooks Rd, Spotsylvania Courthouse, VA 22551, USA","ROOFTOP",c(-77.784116, 38.161341)
+"174","434 315-3581","S outhpaw Acres",1,"OK","342 Pisgah Church Road Rice  VA 23966","342 Pisgah Church Rd, Rice, VA 23966, USA","ROOFTOP",c(-78.2887449, 37.2709162)
+"175","540 419-1746","S potsylvania Farmers Market - Gordon Road Commuter Lot",1,"OK","12150 Gordon Road
+Spotsylvania  VA 22407","12150 Gordon Rd, Fredericksburg, VA 22407, USA","ROOFTOP",c(-77.5626808, 38.2902714)
+"176","540 419-1746","S potsylvania Farmers Market at Spotsylvania Regional Medical",1,"OK","4600 Spotsylvania Parkway
+Fredericksburg  VA 22408","4600 Spotsylvania Pkwy, Fredericksburg, VA 22408, USA","ROOFTOP",c(-77.4961447, 38.2181996)
+"177","434 990-9162","S pring Gate Farm",1,"OK","6675 Fredericksburgh Road
+Barboursville  VA 22923","6675 Fredericksburg Rd, Barboursville, VA 22923, USA","ROOFTOP",c(-78.3055385, 38.262104)
+"178","434 401-3634","S pring Mill Farm P.O. Box",1,"OK","23 Concord  VA 24538","Concord, VA 24538, USA","APPROXIMATE",c(-78.951451, 37.2273986)
+"179","540 937-4181","S tallard Road Farm & Botanicals",1,"OK","14649 Black Hill Road Rixeyville  VA 22737","14649 Black Hill Rd, Rixeyville, VA 22737, USA","ROOFTOP",c(-77.974206, 38.634451)
+"180","540 837-1021","S tonebridge Farm",1,"OK","546 Stonebridge Road
+White Post  VA 22663","546 Stone Bridge Rd, White Post, VA 22663, USA","ROOFTOP",c(-78.0970777, 39.0192526)
+"181","540 364-3040","S tribling Orchard",1,"OK","11587 Poverty Hollow Lane Markham  VA 22643","11587 Poverty Hollow Ln, Markham, VA 22643, USA","ROOFTOP",c(-77.999382, 38.9017286)
+"182","276 694-3811","S tuart Farmers' Market",1,"OK","100 Patrick Avenue
+Stuart  VA 24171","100 Patrick Ave, Stuart, VA 24171, USA","ROOFTOP",c(-80.2660462, 36.64133)
+"183","540 407-1424","S unrise Gardens",1,"OK","114 Sunrise Lane
+Brightwood  VA 22715","114 Sunrise Ln, Brightwood, VA 22715, USA","ROOFTOP",c(-78.1791569, 38.4060345)
+"184","540 543-2220","S unrise Gardens",1,"OK","114 Sunrise Lane
+Brightwood  VA 22715","114 Sunrise Ln, Brightwood, VA 22715, USA","ROOFTOP",c(-78.1791569, 38.4060345)
+"185","540 937-6346","S unshine Acres Farm",1,"OK","15504 Sheads Mountain Road Rixeyville  VA 22737","15504 Sheads Mountain Rd, Rixeyville, VA 22737, USA","ROOFTOP",c(-77.972934, 38.6160498)
+"186","540 735-4642","S wallow Hill Farm, LLC",1,"OK","14148 Stonewall Jackson Road Woodford  VA 22580","14148 Stonewall Jackson Rd, Woodford, VA 22580, USA","ROOFTOP",c(-77.4001399, 38.159062)
+"187","276 940-1983","S weetwater Farm",1,"OK","1650 Ford Branch Road Duffield  VA 24244","Ford Branch, 6, VA 24244, USA","APPROXIMATE",c(-82.7916721, 36.68362)
+"188","540 456-8420","T all Cotton Farm",1,"OK","1913 Craig Store Road Afton  VA 22920","Craigs Store Rd, Samuel Miller, VA 22920, USA","GEOMETRIC_CENTER",c(-78.7523794, 37.9744965)
+"189","571 364-1587","T hankful Acres Family Farm",1,"OK","6313 Thomas Jefferson Hwy
+Charlotte Court Hous  VA 23923-3207","6313 Thomas Jefferson Hwy, Charlotte Court House, VA 23923, USA","ROOFTOP",c(-78.679961, 37.1326639)
+"190","804 441-2273","T he Happy Hens",1,"OK","4673 Three Square Rd Goochland  VA 23063","4673 3 Square Rd, Goochland, VA 23063, USA","ROOFTOP",c(-78.0111325, 37.6694554)
+"191","276 608-2851","T he Lyttle Farm",1,"OK","1660 Copper Ridge Road Castlewood  VA 24224","1660 Copper Ridge Rd, Castlewood, VA 24224, USA","RANGE_INTERPOLATED",c(-82.2957178, 36.8394679)
+"192","540 459-4100","T he Market in Woodstock, LTD",1,"OK","486 N. Main Street
+Woodstock  VA 22664","486 N Main St, Woodstock, VA 22664, USA","ROOFTOP",c(-78.499545, 38.8871131)
+"193","276 496-3389","T he Sunshine Jelly Company @ Grouse Hill Farm",1,"OK","608 Still House Hollow Road
+Saltville  VA 24370","608 Still House Hollow Rd, Saltville, VA 24370, USA","ROOFTOP",c(-81.6973251, 36.9322204)
+"194","434 262-2803","T he Taylor~Wright Farm Company",1,"OK","14 Turner Store Road
+Brodnax  VA 23920","14 Turner Store Rd, Brodnax, VA 23920, USA","RANGE_INTERPOLATED",c(-78.0091626, 36.8061075)
+"195","434 848-0281","T he Wascally Wabbitry",1,"OK","1 Wilson Creek Lane
+Lawrenceville  VA 23868","1 Wilson Creek Ln, Lawrenceville, VA 23868, USA","ROOFTOP",c(-77.7445909, 36.7953534)
+"196","804 231-7767","T ricycle Gardens Farm Stand",1,"OK","2107 Jefferson Ave
+Richm","2107 Jefferson Ave, Richmond, VA 23223, USA","ROOFTOP",c(-77.4208226, 37.534495)
+"197","540 420-4463","T riple Creek Farm",1,"OK","1300 Hodges Farm Road Martinsville  VA 24112","1300 Hodges Farm Rd, Martinsville, VA 24112, USA","ROOFTOP",c(-79.9898532, 36.6905934)
+"198","804 370-9686","T uckahoe Plantation",1,"OK","12601 River Road
+Richmond  VA 23238","12601 River Rd, Richmond, VA 23238, USA","ROOFTOP",c(-77.6527762, 37.5700219)
+"199","757 449-5693","V ertley Farms",1,"OK","5001 Ballahack Road
+Chesapeake  VA 23322","5001 Ballahack Rd, Chesapeake, VA 23322, USA","ROOFTOP",c(-76.3726401, 36.59515)
+"200","214 914-0323","W averly Farms, LC",1,"OK","2345 Lewiston Plank Road Burkeville  VA 23922","2345 Lewiston Plank Rd, Burkeville, VA 23922, USA","ROOFTOP",c(-78.1847687, 37.1603541)
+"201","503 929-2525","W aynesboro Farmer's Market",1,"OK","215 W. Main Street Waynesboro  VA 22980","215 W Main St, Waynesboro, VA 22980, USA","ROOFTOP",c(-78.886419, 38.068769)
+"202","804 363-4500","W est End Farmers Market",1,"OK","12456 Gayton Road
+Richmond  VA 23238","12456 Gayton Rd, Henrico, VA 23238, USA","RANGE_INTERPOLATED",c(-77.6385982, 37.6236101)
+"203","540 482-0577","W estlake Farmers Market",1,"OK","Booker T. Washington Hwy & Enterprise Ln Moneta  VA 24121","Booker T Washington Hwy, Virginia, USA","GEOMETRIC_CENTER",c(-79.7895386, 37.119194)
+"204","540 718-0096","W estover Farm",1,"OK","21604 Westover Drive
+McKenney  VA 23872","21604 Westover Dr, McKenney, VA 23872, USA","ROOFTOP",c(-77.729047, 36.974613)
+"205","703 405-8232","W estover Farmers Market",1,"OK","1644 N. McKinley Road Arlington  VA 22205","1644 N McKinley Rd, Arlington, VA 22205, USA","ROOFTOP",c(-77.1419551, 38.886756)
+"206","804 357-0647","W hispering Springs Farms",1,"OK","15181 Whispering Springs Place Montpelier  VA 2319","15181 Whispering Springs Pl, Montpelier, VA 23192, USA","ROOFTOP",c(-77.6234306, 37.7772563)
+"207",NA,"W ilson's Farms Produce",1,"OK","15040 George Washington Memorial Highway
+Sal","15040 George Washington Memorial Hwy, Saluda, VA 23149, USA","ROOFTOP",c(-76.6093549, 37.571083)
+"208","434 594-5816","W ilson's Poultry and Produce Farm",1,"OK","40 Feilds Circle
+Jarratt  VA 23867","40 Feild's Cir, Jarratt, VA 23867, USA","ROOFTOP",c(-77.5397118, 36.835734)
+"209","276 944-3783","W olf Farm",1,"OK","30451 Micah Lane
+Meadowview  VA 24361","30451 Micah Ln, Meadowview, VA 24361, USA","ROOFTOP",c(-81.83478, 36.825309)
+"210","757 722-2873","W ood's Orchards Farm Market",1,"OK","183 E. Mercury Boulevard Hampton  VA 23669","183 E Mercury Blvd, Hampton, VA 23669, USA","ROOFTOP",c(-76.3274217, 37.038018)
